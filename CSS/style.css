@@ -1,0 +1,40 @@
+body{
+  /* background-color: lightslategray; */
+}
+
+
+
+.jumbotron{
+    background-image: url(images/02-hero-bg.jpg);
+    background-size: cover;
+    color: white;
+    font-size: 4.0em;
+    font-weight: bolder;
+
+.navbar{
+
+    background-color: transparent; !important;
+   
+}
+
+.navbar .navbar-brand{
+
+color:lightslategray;
+font-size: 1.5em;
+font-weight: bolder;
+
+}
+
+.navbar .navbar-nav {
+
+    font-size: 1.5em;
+    font-weight: bolder;
+}
+
+display-4{
+
+    font-size: 2.9em; !important
+}
+.
+
+
